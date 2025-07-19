@@ -11,3 +11,8 @@ git branch -m master main
 
 git add .
 
+### requirement for this project ###
+1. LLM Model -> groq,openai,claude,higgingface
+2. Embedding model -> openai,huggingface
+3. Vector DB ->inmemory/ondisk/cloud based
+
