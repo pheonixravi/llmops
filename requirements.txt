@@ -1,5 +1,8 @@
 # dependencies for LLMOps project
 # This file is used to install the necessary packages for the project.
 langchain
+python-dotenv
+ipykernel
+langchain_groq
 
 -e .
