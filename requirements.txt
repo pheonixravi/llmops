@@ -1,2 +1,5 @@
 # dependencies for LLMOps project
 # This file is used to install the necessary packages for the project.
+langchain
+
+-e .
